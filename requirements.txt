@@ -4,8 +4,12 @@ git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
 Pillow
-https://github.com/pyrogram/pyrogram.git
 requests
 tgcrypto
 youtube-dl
 olefile
+sqlalchemy
+psycopg2-binary
+numpy
+pyrogram==1.0.7
+git+https://github.com/prgofficial/YouTubeDL
